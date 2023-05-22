@@ -87,7 +87,9 @@ port = 53
 "info.nicovideo.jp" = "d2c1o7y4lmdvf6.cloudfront.net"
 "www.ftchinese.com" = "dsiij4vzr462k.cloudfront.net"
 "pipelines.actions.githubusercontent.com" = "origin.mediaservices.windows.net"
-
+"irc-ws.chat.twitch.tv" = "websocket-1.us-west-2.prod.twitchircedge.twitch.a2z.com"
+"pubsub-edge.twitch.tv" = "*.external-3.us-west-2.prod.twitchpubsubedge.twitch.a2z.com"
+"collector.github.com" = "gist.githubusercontent.com"
 
 [hosts]
 
@@ -142,4 +144,3 @@ port = 53
 ".wikiyoyage.org" = "91.198.174.192"
 ".wikisource.org" = "91.198.174.192"
 ".wikidata.org" = "91.198.174.192"
-"exhentai.org" = "178.175.128.252"
