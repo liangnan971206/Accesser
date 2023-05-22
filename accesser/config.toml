@@ -90,6 +90,7 @@ port = 53
 "irc-ws.chat.twitch.tv" = "websocket-1.us-west-2.prod.twitchircedge.twitch.a2z.com"
 "pubsub-edge.twitch.tv" = "*.external-3.us-west-2.prod.twitchpubsubedge.twitch.a2z.com"
 "collector.github.com" = "gist.githubusercontent.com"
+"docs.github.com" = "githubassets.com"
 
 [hosts]
 
